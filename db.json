@@ -1,0 +1,27 @@
+{
+    "rincianPenumpang": {
+        "responseCode": "RSx700011",
+        "responseMessage": "Ferizy Service - RsRsPeduliLindungiRf Sukses",
+        "responseReferenceNo": "01b5014719fe41fb99fa0705e217caac",
+        "rincianPenumpang": {
+            "id": "rincian-penumpang",
+            "name": "Rincian Penumpang",
+            "data": [
+                {
+                    "nik": "3175082806970004",
+                    "name": "Joko Kuncoro",
+                    "vaccine": "2",
+                    "vaccineDetail": "Dosis ke-2",
+                    "status": "Terverifikasi"
+                },
+                {
+                    "nik": "3201134207990008",
+                    "name": "Dhimas",
+                    "vaccine": "3",
+                    "vaccineDetail": "Dosis ke-3",
+                    "status": "Terverifikasi"
+                }
+            ]
+        }
+    }
+}
